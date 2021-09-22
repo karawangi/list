@@ -61,12 +61,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x2170Ed0880ac9A755fd29B2688956BD959F933F8.png"
     },
     {
-      "name": "Bunny Token",
-      "symbol": "BUNNY",
-      "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
+      "name": "Tron",
+      "symbol": "TRX",
+      "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51.png"
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b.png"
     },
     {
       "name": "Venus Token",
@@ -101,12 +101,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402.png"
     },
     {
-      "name": "Refinable",
-      "symbol": "FINE",
-      "address": "0x4e6415a5727ea08aAE4580057187923aeC331227",
+      "name": "Cardano Token",
+      "symbol": "ADA",
+      "address": "0x3EE2200Efb3400fAbB9AacF31297cBdD1d435D47",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x4e6415a5727ea08aAE4580057187923aeC331227.png"
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x3ee2200efb3400fabb9aacf31297cbdd1d435d47.png"
     },
     {
       "name": "Binance Pegged DAI",
