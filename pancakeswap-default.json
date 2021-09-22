@@ -125,12 +125,12 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     },
     {
-      "name": "Dopple Finance",
-      "symbol": "DOP",
-      "address": "0x844FA82f1E54824655470970F7004Dd90546bB28",
+      "name": "Bitmoney",
+      "symbol": "BMN",
+      "address": "0x4596d2127a466595c1f8d2140ba3abf118966078",
       "chainId": 56,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x844FA82f1E54824655470970F7004Dd90546bB28.png"
+      "logoURI": "https://m-dex.net/images/logo-full-white2x.png"
     }
   ]
 }
